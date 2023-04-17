@@ -1,1 +1,3 @@
-# Generar-codigo-QR-bot-discord-python
+usar:
+<br>
+!keko .iroke.
