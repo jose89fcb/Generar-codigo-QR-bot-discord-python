@@ -10,7 +10,7 @@ bot.remove_command("help") # Borra el comando por defecto !help
  
  
 @bot.command()
-async def nombre(ctx,*, habbo):
+async def keko(ctx,*, habbo):
     web = f"https://habbo.es/home/{habbo}"
 
     qr = qrcode.QRCode(version=1,box_size=10,border=5)
